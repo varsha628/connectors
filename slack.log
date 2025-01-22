@@ -1,0 +1,1790 @@
+INFO:root:Successfully fetched users list.
+INFO:root:Json data = {
+    "ok": true,
+    "members": [
+        {
+            "id": "USLACKBOT",
+            "team_id": "T0878B0JADS",
+            "name": "slackbot",
+            "deleted": false,
+            "color": "757575",
+            "real_name": "Slackbot",
+            "tz": "America/Los_Angeles",
+            "tz_label": "Pacific Standard Time",
+            "tz_offset": -28800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Slackbot",
+                "real_name_normalized": "Slackbot",
+                "display_name": "Slackbot",
+                "display_name_normalized": "Slackbot",
+                "fields": {},
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "sv41d8cd98f0",
+                "always_active": true,
+                "first_name": "slackbot",
+                "last_name": "",
+                "image_24": "https://a.slack-edge.com/80588/img/slackbot_24.png",
+                "image_32": "https://a.slack-edge.com/80588/img/slackbot_32.png",
+                "image_48": "https://a.slack-edge.com/80588/img/slackbot_48.png",
+                "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+                "image_192": "https://a.slack-edge.com/80588/marketing/img/avatars/slackbot/avatar-slackbot.png",
+                "image_512": "https://a.slack-edge.com/80588/img/slackbot_512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": false,
+            "is_app_user": false,
+            "updated": 0,
+            "is_email_confirmed": false,
+            "who_can_share_contact_card": "EVERYONE"
+        },
+        {
+            "id": "U086RA0DJ95",
+            "team_id": "T0878B0JADS",
+            "name": "shilpa.veeranagappa",
+            "deleted": false,
+            "color": "db3150",
+            "real_name": "Shilpa Veeranagappa",
+            "tz": "Asia/Kolkata",
+            "tz_label": "India Standard Time",
+            "tz_offset": 19800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Shilpa Veeranagappa",
+                "real_name_normalized": "Shilpa Veeranagappa",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "g3385c027697",
+                "first_name": "Shilpa",
+                "last_name": "Veeranagappa",
+                "image_24": "https://secure.gravatar.com/avatar/3385c0276972590782e5b3d8f4f1745c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/3385c0276972590782e5b3d8f4f1745c.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/3385c0276972590782e5b3d8f4f1745c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/3385c0276972590782e5b3d8f4f1745c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/3385c0276972590782e5b3d8f4f1745c.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/3385c0276972590782e5b3d8f4f1745c.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": false,
+            "is_app_user": false,
+            "updated": 1735897589,
+            "is_email_confirmed": false,
+            "has_2fa": false,
+            "who_can_share_contact_card": "EVERYONE",
+            "is_invited_user": true
+        },
+        {
+            "id": "U086Z7C4X38",
+            "team_id": "T0878B0JADS",
+            "name": "sarfraz.ahamad",
+            "deleted": true,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Sarfraz Ahamad",
+                "real_name_normalized": "Sarfraz Ahamad",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "ge420771c836",
+                "first_name": "Sarfraz",
+                "last_name": "Ahamad",
+                "image_24": "https://secure.gravatar.com/avatar/e420771c836a87985346a8eae60d3737.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/e420771c836a87985346a8eae60d3737.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/e420771c836a87985346a8eae60d3737.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/e420771c836a87985346a8eae60d3737.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/e420771c836a87985346a8eae60d3737.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/e420771c836a87985346a8eae60d3737.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_bot": false,
+            "is_app_user": false,
+            "updated": 1736496371,
+            "is_invited_user": true
+        },
+        {
+            "id": "U0875NXST99",
+            "team_id": "T0878B0JADS",
+            "name": "rajendra.prasad",
+            "deleted": false,
+            "color": "9b3b45",
+            "real_name": "Rajendra Prasad",
+            "tz": "Asia/Kolkata",
+            "tz_label": "India Standard Time",
+            "tz_offset": 19800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Rajendra Prasad",
+                "real_name_normalized": "Rajendra Prasad",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "g990e4d8c8aa",
+                "first_name": "Rajendra",
+                "last_name": "Prasad",
+                "image_24": "https://secure.gravatar.com/avatar/990e4d8c8aab4beb20e727a8e2c3c5c5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/990e4d8c8aab4beb20e727a8e2c3c5c5.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/990e4d8c8aab4beb20e727a8e2c3c5c5.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/990e4d8c8aab4beb20e727a8e2c3c5c5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/990e4d8c8aab4beb20e727a8e2c3c5c5.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/990e4d8c8aab4beb20e727a8e2c3c5c5.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": false,
+            "is_app_user": false,
+            "updated": 1735897595,
+            "is_email_confirmed": false,
+            "has_2fa": false,
+            "who_can_share_contact_card": "EVERYONE",
+            "is_invited_user": true
+        },
+        {
+            "id": "U0875SU02KC",
+            "team_id": "T0878B0JADS",
+            "name": "powerful_app",
+            "deleted": false,
+            "color": "e23f99",
+            "real_name": "Powerful app",
+            "tz": "America/Los_Angeles",
+            "tz_label": "Pacific Standard Time",
+            "tz_offset": -28800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Powerful app",
+                "real_name_normalized": "Powerful app",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "g90b7dfc203d",
+                "api_app_id": "A0878BVNGR2",
+                "always_active": true,
+                "bot_id": "B086Z8QUAT0",
+                "first_name": "Powerful",
+                "last_name": "app",
+                "image_24": "https://secure.gravatar.com/avatar/90b7dfc203d9f870f4364d49d2478357.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/90b7dfc203d9f870f4364d49d2478357.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/90b7dfc203d9f870f4364d49d2478357.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/90b7dfc203d9f870f4364d49d2478357.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/90b7dfc203d9f870f4364d49d2478357.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/90b7dfc203d9f870f4364d49d2478357.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": true,
+            "is_app_user": false,
+            "updated": 1736226057,
+            "is_email_confirmed": false,
+            "who_can_share_contact_card": "EVERYONE"
+        },
+        {
+            "id": "U087UKUEEHW",
+            "team_id": "T0878B0JADS",
+            "name": "varshashu443",
+            "deleted": false,
+            "color": "bc3663",
+            "real_name": "varshashu443",
+            "tz": "Asia/Kolkata",
+            "tz_label": "India Standard Time",
+            "tz_offset": 19800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "varshashu443",
+                "real_name_normalized": "varshashu443",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "g33ffe6dc945",
+                "first_name": "varshashu443",
+                "last_name": "",
+                "image_24": "https://secure.gravatar.com/avatar/33ffe6dc945c1cec7c17011593013771.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/33ffe6dc945c1cec7c17011593013771.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/33ffe6dc945c1cec7c17011593013771.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/33ffe6dc945c1cec7c17011593013771.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/33ffe6dc945c1cec7c17011593013771.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/33ffe6dc945c1cec7c17011593013771.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": true,
+            "is_owner": true,
+            "is_primary_owner": true,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": false,
+            "is_app_user": false,
+            "updated": 1735897424,
+            "is_email_confirmed": true,
+            "has_2fa": false,
+            "who_can_share_contact_card": "EVERYONE"
+        },
+        {
+            "id": "U088A7HMSKB",
+            "team_id": "T0878B0JADS",
+            "name": "demo_app",
+            "deleted": false,
+            "color": "4d5e26",
+            "real_name": "Demo App",
+            "tz": "America/Los_Angeles",
+            "tz_label": "Pacific Standard Time",
+            "tz_offset": -28800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Demo App",
+                "real_name_normalized": "Demo App",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "ga3d4c4ac22d",
+                "api_app_id": "A088764N916",
+                "always_active": false,
+                "bot_id": "B087XDUNVJP",
+                "first_name": "Demo",
+                "last_name": "App",
+                "image_24": "https://secure.gravatar.com/avatar/a3d4c4ac22dff0447c6befe9d3d24ca2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/a3d4c4ac22dff0447c6befe9d3d24ca2.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/a3d4c4ac22dff0447c6befe9d3d24ca2.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/a3d4c4ac22dff0447c6befe9d3d24ca2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/a3d4c4ac22dff0447c6befe9d3d24ca2.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/a3d4c4ac22dff0447c6befe9d3d24ca2.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": true,
+            "is_app_user": false,
+            "updated": 1736415848,
+            "is_email_confirmed": false,
+            "who_can_share_contact_card": "EVERYONE"
+        },
+        {
+            "id": "U088YU0BNA0",
+            "team_id": "T0878B0JADS",
+            "name": "demo_app2",
+            "deleted": false,
+            "color": "bd9336",
+            "real_name": "Demo App",
+            "tz": "America/Los_Angeles",
+            "tz_label": "Pacific Standard Time",
+            "tz_offset": -28800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "Demo App",
+                "real_name_normalized": "Demo App",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "g1be5b9ae7f0",
+                "api_app_id": "A089K780WDN",
+                "always_active": false,
+                "bot_id": "B088WA5H81H",
+                "first_name": "Demo",
+                "last_name": "App",
+                "image_24": "https://secure.gravatar.com/avatar/1be5b9ae7f0aa7213b7d0b05e69c4bd4.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/1be5b9ae7f0aa7213b7d0b05e69c4bd4.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/1be5b9ae7f0aa7213b7d0b05e69c4bd4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/1be5b9ae7f0aa7213b7d0b05e69c4bd4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/1be5b9ae7f0aa7213b7d0b05e69c4bd4.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/1be5b9ae7f0aa7213b7d0b05e69c4bd4.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": true,
+            "is_app_user": false,
+            "updated": 1737003258,
+            "is_email_confirmed": false,
+            "who_can_share_contact_card": "EVERYONE"
+        },
+        {
+            "id": "U08996D78D7",
+            "team_id": "T0878B0JADS",
+            "name": "newwww",
+            "deleted": false,
+            "color": "bb86b7",
+            "real_name": "newwww",
+            "tz": "America/Los_Angeles",
+            "tz_label": "Pacific Standard Time",
+            "tz_offset": -28800,
+            "profile": {
+                "title": "",
+                "phone": "",
+                "skype": "",
+                "real_name": "newwww",
+                "real_name_normalized": "newwww",
+                "display_name": "",
+                "display_name_normalized": "",
+                "fields": null,
+                "status_text": "",
+                "status_emoji": "",
+                "status_emoji_display_info": [],
+                "status_expiration": 0,
+                "avatar_hash": "g0c99835c9be",
+                "api_app_id": "A088Z085HU4",
+                "always_active": false,
+                "bot_id": "B088Z1584AY",
+                "first_name": "newwww",
+                "last_name": "",
+                "image_24": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+                "image_32": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-32.png",
+                "image_48": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-48.png",
+                "image_72": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+                "image_192": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-192.png",
+                "image_512": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-512.png",
+                "status_text_canonical": "",
+                "team": "T0878B0JADS"
+            },
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": true,
+            "is_app_user": false,
+            "updated": 1737004949,
+            "is_email_confirmed": false,
+            "who_can_share_contact_card": "EVERYONE"
+        }
+    ],
+    "cache_ts": 1737444992,
+    "response_metadata": {
+        "next_cursor": ""
+    }
+}
+INFO:root:Fetching information for user ID: USLACKBOT
+INFO:root:User Info for USLACKBOT:
+{
+    "ok": true,
+    "user": {
+        "id": "USLACKBOT",
+        "team_id": "T0878B0JADS",
+        "name": "slackbot",
+        "deleted": false,
+        "color": "757575",
+        "real_name": "Slackbot",
+        "tz": "America/Los_Angeles",
+        "tz_label": "Pacific Standard Time",
+        "tz_offset": -28800,
+        "profile": {
+            "title": "",
+            "phone": "",
+            "skype": "",
+            "real_name": "Slackbot",
+            "real_name_normalized": "Slackbot",
+            "display_name": "Slackbot",
+            "display_name_normalized": "Slackbot",
+            "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_emoji_display_info": [],
+            "status_expiration": 0,
+            "avatar_hash": "sv41d8cd98f0",
+            "always_active": true,
+            "first_name": "slackbot",
+            "last_name": "",
+            "image_24": "https://a.slack-edge.com/80588/img/slackbot_24.png",
+            "image_32": "https://a.slack-edge.com/80588/img/slackbot_32.png",
+            "image_48": "https://a.slack-edge.com/80588/img/slackbot_48.png",
+            "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+            "image_192": "https://a.slack-edge.com/80588/marketing/img/avatars/slackbot/avatar-slackbot.png",
+            "image_512": "https://a.slack-edge.com/80588/img/slackbot_512.png",
+            "status_text_canonical": "",
+            "team": "T0878B0JADS"
+        },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 0,
+        "is_email_confirmed": false,
+        "has_2fa": false,
+        "who_can_share_contact_card": "EVERYONE"
+    }
+}
+INFO:root:Fetching information for user ID: U08996D78D7
+INFO:root:User Info for U08996D78D7:
+{
+    "ok": true,
+    "user": {
+        "id": "U08996D78D7",
+        "team_id": "T0878B0JADS",
+        "name": "newwww",
+        "deleted": false,
+        "color": "bb86b7",
+        "real_name": "newwww",
+        "tz": "America/Los_Angeles",
+        "tz_label": "Pacific Standard Time",
+        "tz_offset": -28800,
+        "profile": {
+            "title": "",
+            "phone": "",
+            "skype": "",
+            "real_name": "newwww",
+            "real_name_normalized": "newwww",
+            "display_name": "",
+            "display_name_normalized": "",
+            "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_emoji_display_info": [],
+            "status_expiration": 0,
+            "avatar_hash": "g0c99835c9be",
+            "api_app_id": "A088Z085HU4",
+            "always_active": false,
+            "bot_id": "B088Z1584AY",
+            "first_name": "newwww",
+            "last_name": "",
+            "image_24": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "image_192": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-192.png",
+            "image_512": "https://secure.gravatar.com/avatar/0c99835c9beef1db66227e760195ae7c.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-512.png",
+            "status_text_canonical": "",
+            "team": "T0878B0JADS"
+        },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": true,
+        "is_app_user": false,
+        "updated": 1737004949,
+        "is_email_confirmed": false,
+        "who_can_share_contact_card": "EVERYONE"
+    }
+}
+INFO:root:Fetching files list...
+INFO:root:Files List Data:
+{
+    "ok": true,
+    "files": [
+        {
+            "id": "F086R9QMAJK",
+            "created": 1735897393,
+            "timestamp": 1735897393,
+            "name": "Company_handbook",
+            "title": "Company handbook",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1415,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086R9QMAJK/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086R9QMAJK/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/C087JG61YQH",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/C087JG61YQH/mobile",
+            "quip_thread_id": "LSY9AAXfuvI",
+            "updated": 1735904663,
+            "update_notification": 1735897396,
+            "is_channel_space": true,
+            "linked_channel_id": "C087JG61YQH",
+            "channels": [
+                "C087JG61YQH"
+            ],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Y9an",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Company handbook"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false
+        },
+        {
+            "id": "F086R9QMB7H",
+            "created": 1735897393,
+            "timestamp": 1735897393,
+            "name": "____________",
+            "title": ":tada::heartpulse::stuck_out_tongue_winking_eye:",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1696,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086R9QMB7H/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086R9QMB7H/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/C0875R56MR8",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/C0875R56MR8/mobile",
+            "quip_thread_id": "QUW9AAtLDfF",
+            "updated": 1735904663,
+            "update_notification": 1735897394,
+            "is_channel_space": true,
+            "linked_channel_id": "C0875R56MR8",
+            "channels": [
+                "C0875R56MR8"
+            ],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4qF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "tada",
+                                    "unicode": "1f389"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "heartpulse",
+                                    "unicode": "1f497"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "stuck_out_tongue_winking_eye",
+                                    "unicode": "1f61c"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false
+        },
+        {
+            "id": "F0878B0LPUL",
+            "created": 1735897393,
+            "timestamp": 1735897393,
+            "name": "To-do_list",
+            "title": "To-do list",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 669,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0878B0LPUL/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0878B0LPUL/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/D086R9QK9EK",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/D086R9QK9EK/mobile",
+            "quip_thread_id": "bHR9AAwbn9V",
+            "updated": 1735904671,
+            "update_notification": 1735897393,
+            "is_channel_space": true,
+            "linked_channel_id": "D086R9QK9EK",
+            "channels": [],
+            "groups": [],
+            "ims": [
+                "D086R9QK9EK"
+            ],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rfmN=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "To-do list"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false
+        },
+        {
+            "id": "F0875NMTGTV",
+            "created": 1735897394,
+            "timestamp": 1735897394,
+            "name": "Employee_onboarding",
+            "title": "Employee onboarding",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1360,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875NMTGTV/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875NMTGTV/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NMTGTV",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NMTGTV/mobile",
+            "quip_thread_id": "CMQ9AA3UQjZ",
+            "updated": 1735904674,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ltu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Employee onboarding"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897405
+        },
+        {
+            "id": "F08730LSLFP",
+            "created": 1735897406,
+            "timestamp": 1735897406,
+            "name": "Monthly_newsletter",
+            "title": "Monthly newsletter",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1764,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F08730LSLFP/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F08730LSLFP/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730LSLFP",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730LSLFP/mobile",
+            "quip_thread_id": "YHc9AAn1eeC",
+            "updated": 1735904671,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zU7A",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Monthly newsletter"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897416
+        },
+        {
+            "id": "F087JG76X4H",
+            "created": 1735897417,
+            "timestamp": 1735897417,
+            "name": "Channel_overview",
+            "title": "Channel overview",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 432,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F087JG76X4H/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F087JG76X4H/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F087JG76X4H",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F087JG76X4H/mobile",
+            "quip_thread_id": "cUd9AA1fWyA",
+            "updated": 1735904702,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Xl5t",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Channel overview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897427
+        },
+        {
+            "id": "F08730MTEUD",
+            "created": 1735897428,
+            "timestamp": 1735897428,
+            "name": "Weekly_sync",
+            "title": "Weekly sync",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 560,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F08730MTEUD/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F08730MTEUD/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730MTEUD",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730MTEUD/mobile",
+            "quip_thread_id": "VBR9AAZbpAP",
+            "updated": 1735904708,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Uk2q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Weekly sync"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897439
+        },
+        {
+            "id": "F0875R7BV6W",
+            "created": 1735897439,
+            "timestamp": 1735897439,
+            "name": "Product_brief",
+            "title": "Product brief",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 943,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875R7BV6W/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875R7BV6W/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875R7BV6W",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875R7BV6W/mobile",
+            "quip_thread_id": "MaM9AAy5azF",
+            "updated": 1735904718,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fmbr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Product brief"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897450
+        },
+        {
+            "id": "F0875NQHUJF",
+            "created": 1735897450,
+            "timestamp": 1735897450,
+            "name": "Marketing_project_outline",
+            "title": "Marketing project outline",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 804,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875NQHUJF/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875NQHUJF/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NQHUJF",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NQHUJF/mobile",
+            "quip_thread_id": "SSa9AARKBP9",
+            "updated": 1735904723,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "G6MUB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Marketing project outline"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897461
+        },
+        {
+            "id": "F08730PFM4M",
+            "created": 1735897462,
+            "timestamp": 1735897462,
+            "name": "Sales_enablement_hub",
+            "title": "Sales enablement hub",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 936,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F08730PFM4M/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F08730PFM4M/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730PFM4M",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730PFM4M/mobile",
+            "quip_thread_id": "XUE9AAkVj03",
+            "updated": 1735904729,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xYdi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Sales enablement hub"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897473
+        },
+        {
+            "id": "F086R9UKB47",
+            "created": 1735897473,
+            "timestamp": 1735897473,
+            "name": "Out-of-office_coverage_plan",
+            "title": "Out-of-office coverage plan",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1033,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086R9UKB47/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086R9UKB47/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F086R9UKB47",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F086R9UKB47/mobile",
+            "quip_thread_id": "CMJ9AArTYft",
+            "updated": 1735904754,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fh+3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Out-of-office coverage plan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897484
+        },
+        {
+            "id": "F08730QNUFP",
+            "created": 1735897484,
+            "timestamp": 1735897484,
+            "name": "Technical_specifications",
+            "title": "Technical specifications",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1243,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F08730QNUFP/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F08730QNUFP/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730QNUFP",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730QNUFP/mobile",
+            "quip_thread_id": "XXd9AAPfFko",
+            "updated": 1735904769,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5e57B",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Technical specifications"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897495
+        },
+        {
+            "id": "F0875NSS5LK",
+            "created": 1735897496,
+            "timestamp": 1735897496,
+            "name": "Incident_summary",
+            "title": "Incident summary",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1026,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875NSS5LK/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875NSS5LK/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NSS5LK",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NSS5LK/mobile",
+            "quip_thread_id": "ZJN9AAXH4jP",
+            "updated": 1735904771,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gkB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Incident summary"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897506
+        },
+        {
+            "id": "F0875NTJAM9",
+            "created": 1735897507,
+            "timestamp": 1735897507,
+            "name": "Event_planning",
+            "title": "Event planning",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 312,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875NTJAM9/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875NTJAM9/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NTJAM9",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875NTJAM9/mobile",
+            "quip_thread_id": "GJD9AA8s8wO",
+            "updated": 1735904779,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lceO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Event planning"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897518
+        },
+        {
+            "id": "F086Z78FUVC",
+            "created": 1735897518,
+            "timestamp": 1735897518,
+            "name": "Objectives_and_key_results__OKRs_",
+            "title": "Objectives and key results (OKRs)",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 1240,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086Z78FUVC/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086Z78FUVC/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F086Z78FUVC",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F086Z78FUVC/mobile",
+            "quip_thread_id": "DOR9AATEWtx",
+            "updated": 1735904794,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/JVf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Objectives and key results (OKRs)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897529
+        },
+        {
+            "id": "F086Z793886",
+            "created": 1735897530,
+            "timestamp": 1735897530,
+            "name": "Employee_benefits",
+            "title": "Employee benefits",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 588,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086Z793886/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086Z793886/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F086Z793886",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F086Z793886/mobile",
+            "quip_thread_id": "Dec9AAIK6CS",
+            "updated": 1735904814,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xttcb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Employee benefits"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897541
+        },
+        {
+            "id": "F0875RCL90S",
+            "created": 1735897541,
+            "timestamp": 1735897541,
+            "name": "Shared_resources",
+            "title": "Shared resources",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 301,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875RCL90S/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875RCL90S/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875RCL90S",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F0875RCL90S/mobile",
+            "quip_thread_id": "HEA9AAkaHUu",
+            "updated": 1735904819,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AOD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Shared resources"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897552
+        },
+        {
+            "id": "F08730U7QNR",
+            "created": 1735897552,
+            "timestamp": 1735897552,
+            "name": "Agenda",
+            "title": "Agenda",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 251,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F08730U7QNR/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F08730U7QNR/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730U7QNR",
+            "url_static_preview": "https://tech-zbw7817.slack.com/docs/T0878B0JADS/F08730U7QNR/mobile",
+            "quip_thread_id": "KUA9AAmpkPR",
+            "updated": 1735904823,
+            "update_notification": null,
+            "channels": [],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "read",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "j6m",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Agenda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false,
+            "canvas_template_mode": "published",
+            "template_conversion_ts": 1735897563
+        },
+        {
+            "id": "F0875NXF9NX",
+            "created": 1735897587,
+            "timestamp": 1735897587,
+            "name": "Untitled",
+            "title": "Untitled",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 0,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875NXF9NX/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875NXF9NX/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/C086RA09KGF",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/C086RA09KGF/mobile",
+            "quip_thread_id": "cRJ9AAVdqO5",
+            "update_notification": null,
+            "is_channel_space": true,
+            "linked_channel_id": "C086RA09KGF",
+            "channels": [
+                "C086RA09KGF"
+            ],
+            "groups": [],
+            "ims": [],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "editors": [],
+            "show_badge": false
+        },
+        {
+            "id": "F086RA0NEUX",
+            "created": 1735897596,
+            "timestamp": 1735897596,
+            "name": "Weekly_sync",
+            "title": "Weekly sync",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 600,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086RA0NEUX/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086RA0NEUX/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/D086Z7C29RC",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/D086Z7C29RC/mobile",
+            "quip_thread_id": "EWH9AASSh9y",
+            "updated": 1735904879,
+            "update_notification": 1735897596,
+            "is_channel_space": true,
+            "linked_channel_id": "D086Z7C29RC",
+            "channels": [],
+            "groups": [],
+            "ims": [
+                "D086Z7C29RC"
+            ],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ADyP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Weekly sync"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false
+        },
+        {
+            "id": "F086Z7CBS6A",
+            "created": 1735897599,
+            "timestamp": 1735897599,
+            "name": "Weekly_sync",
+            "title": "Weekly sync",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 600,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F086Z7CBS6A/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F086Z7CBS6A/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/D086RA0LHE3",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/D086RA0LHE3/mobile",
+            "quip_thread_id": "LIf9AArYwn4",
+            "updated": 1735904883,
+            "update_notification": 1735897599,
+            "is_channel_space": true,
+            "linked_channel_id": "D086RA0LHE3",
+            "channels": [],
+            "groups": [],
+            "ims": [
+                "D086RA0LHE3"
+            ],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cUd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Weekly sync"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false
+        },
+        {
+            "id": "F0875NYCE59",
+            "created": 1735897606,
+            "timestamp": 1735897606,
+            "name": "Weekly_sync",
+            "title": "Weekly sync",
+            "mimetype": "application/vnd.slack-docs",
+            "filetype": "quip",
+            "pretty_type": "Canvas",
+            "user": "USLACKBOT",
+            "user_team": "T0878B0JADS",
+            "editable": true,
+            "size": 600,
+            "mode": "quip",
+            "is_external": false,
+            "external_type": "",
+            "is_public": false,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0878B0JADS-F0875NYCE59/canvas",
+            "url_private_download": "https://files.slack.com/files-pri/T0878B0JADS-F0875NYCE59/download/canvas",
+            "permalink": "https://tech-zbw7817.slack.com/canvas/D08730WA8N9",
+            "url_static_preview": "https://tech-zbw7817.slack.com/canvas/D08730WA8N9/mobile",
+            "quip_thread_id": "YTb9AAtr5PA",
+            "updated": 1735904891,
+            "update_notification": 1735897606,
+            "is_channel_space": true,
+            "linked_channel_id": "D08730WA8N9",
+            "channels": [],
+            "groups": [],
+            "ims": [
+                "D08730WA8N9"
+            ],
+            "teams_shared_with": [],
+            "is_restricted_sharing_enabled": false,
+            "access": "write",
+            "comments_count": 0,
+            "title_blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "b/v",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Weekly sync"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "editors": [],
+            "show_badge": false
+        }
+    ],
+    "paging": {
+        "count": 100,
+        "total": 22,
+        "page": 1,
+        "pages": 1
+    }
+}
